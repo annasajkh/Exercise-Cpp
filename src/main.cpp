@@ -1,6 +1,7 @@
-#include "ArrayList.h"
+
+#include "../include/ArrayList.h"
 #include <iostream>
-#include "Array.h"
+#include "../include/Array.h"
 
 #define print(x) std::cout << x << std::endl
 
